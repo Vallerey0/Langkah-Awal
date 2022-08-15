@@ -2,5 +2,5 @@ Tujuan yang harus dicapai
 -Bisa membuat web
 -Mnegerti JavaSrcipt
 -Mengerti PHP
--Belajar Frond End
 -Belajar Back End
+-Belajar API
