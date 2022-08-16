@@ -5,5 +5,5 @@ Tujuan yang harus dicapai
 -Belajar Frond End
  *Bootstrap
 -Belajar Back End
- *Saya Ambil Bahasa JavaScript
+ *Saya Ambil Bahasa PHP
 -Belajar API
